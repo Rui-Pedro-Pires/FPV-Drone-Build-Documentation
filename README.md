@@ -5,7 +5,7 @@
 This project involves building a 5" freestyle FPV (First Person View) drone from scratch, utilizing various components from well-known manufacturers. The goal of this project was to gain hands-on experience with soldering, configuring, and troubleshooting a drone build from the ground up. The entire process, from assembly to flight configuration, was self-taught.
 
 ---
-<img src="https://github.com/Rui-Pedro-Pires/FPV-Drone-Build-Documentation/blog/main/drone.jpg">
+<img src="https://github.com/Rui-Pedro-Pires/FPV-Drone-Build-Documentation/blob/main/drone.jpg">
 ## Components Used
 
 - **Frame:** [Source One V4 5" Frame](https://www.racedayquads.com/products/rdq-source-one-v4-5-freestyle-frame?keyword=sourceone&aff=58)
