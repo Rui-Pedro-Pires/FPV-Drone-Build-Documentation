@@ -6,6 +6,9 @@ This project involves building a 5" freestyle FPV (First Person View) drone from
 
 ---
 <img src="https://github.com/Rui-Pedro-Pires/FPV-Drone-Build-Documentation/blob/main/drone.jpg">
+
+---
+
 ## Components Used
 
 - **Frame:** [Source One V4 5" Frame](https://www.racedayquads.com/products/rdq-source-one-v4-5-freestyle-frame?keyword=sourceone&aff=58)
